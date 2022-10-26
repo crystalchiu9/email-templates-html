@@ -1,0 +1,565 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" lang="en"><head>
+    <title></title>
+    <meta property="og:title" content="">
+    <meta name="twitter:title" content="">
+    
+    
+    
+<meta name="x-apple-disable-message-reformatting">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <!--[if gte mso 9]>
+  <xml>
+      <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+  </xml>
+  
+  <style>
+    ul > li {
+      text-indent: -1em;
+    }
+  </style>
+<![endif]-->
+<!--[if mso]>
+<style type="text/css">
+ body, td {font-family: Arial, Helvetica, sans-serif;}
+</style>
+<![endif]-->
+
+
+    
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+    
+
+
+  <base href="https://8520956.hubspotpreview-na1.com" target="_blank"><meta name="generator" content="HubSpot"><meta property="og:url" content="http://dedoco-8520956.hs-sites.com/7dea362b-3fac-3e00-956a-4952a3d4f474"><meta name="robots" content="noindex,follow"><!--[if !((mso)|(IE))]><!-- --><style type="text/css">.moz-text-html .hse-column-container{max-width:600px !important;width:600px !important}
+.moz-text-html .hse-column{display:table-cell;vertical-align:top}.moz-text-html .hse-section .hse-size-3{max-width:150px !important;width:150px !important}
+.moz-text-html .hse-section .hse-size-4{max-width:200px !important;width:200px !important}
+.moz-text-html .hse-section .hse-size-5{max-width:250px !important;width:250px !important}
+.moz-text-html .hse-section .hse-size-6{max-width:300px !important;width:300px !important}
+.moz-text-html .hse-section .hse-size-7{max-width:350px !important;width:350px !important}
+.moz-text-html .hse-section .hse-size-8{max-width:400px !important;width:400px !important}
+.moz-text-html .hse-section .hse-size-9{max-width:450px !important;width:450px !important}
+.moz-text-html .hse-section .hse-size-12{max-width:600px !important;width:600px !important}
+[owa] .hse-column-container{max-width:600px !important;width:600px !important}[owa] .hse-column{display:table-cell;vertical-align:top}
+[owa] .hse-section .hse-size-3{max-width:150px !important;width:150px !important}
+[owa] .hse-section .hse-size-4{max-width:200px !important;width:200px !important}
+[owa] .hse-section .hse-size-5{max-width:250px !important;width:250px !important}
+[owa] .hse-section .hse-size-6{max-width:300px !important;width:300px !important}
+[owa] .hse-section .hse-size-7{max-width:350px !important;width:350px !important}
+[owa] .hse-section .hse-size-8{max-width:400px !important;width:400px !important}
+[owa] .hse-section .hse-size-9{max-width:450px !important;width:450px !important}
+[owa] .hse-section .hse-size-12{max-width:600px !important;width:600px !important}
+@media only screen and (min-width:640px){.hse-column-container{max-width:600px !important;width:600px !important}
+.hse-column{display:table-cell;vertical-align:top}.hse-section .hse-size-3{max-width:150px !important;width:150px !important}
+.hse-section .hse-size-4{max-width:200px !important;width:200px !important}.hse-section .hse-size-5{max-width:250px !important;width:250px !important}
+.hse-section .hse-size-6{max-width:300px !important;width:300px !important}.hse-section .hse-size-7{max-width:350px !important;width:350px !important}
+.hse-section .hse-size-8{max-width:400px !important;width:400px !important}.hse-section .hse-size-9{max-width:450px !important;width:450px !important}
+.hse-section .hse-size-12{max-width:600px !important;width:600px !important}}@media only screen and (max-width:639px){img.stretch-on-mobile,.hs_rss_email_entries_table img,.hs-stretch-cta .hs-cta-img{height:auto !important;width:100% !important}
+.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px !important;padding-right:20px !important}
+ul,blockquote{margin:0;padding:1em 40px}}@media screen and (max-width:639px){.social-network-cell{display:inline-block}
+}</style><!--<![endif]--><style type="text/css">body[data-outlook-cycle] img.stretch-on-mobile,body[data-outlook-cycle] .hs_rss_email_entries_table img{height:auto !important;width:100% !important}
+body[data-outlook-cycle] .hs_padded{padding-left:20px !important;padding-right:20px !important}
+a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !important;font-size:inherit !important;font-family:inherit !important;font-weight:inherit !important;line-height:inherit !important}
+#outlook a{padding:0}.yshortcuts a{border-bottom:none !important}a{text-decoration:underline}
+.ExternalClass{width:100%}.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{line-height:100%}
+p{margin:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;moz-osx-font-smoothing:grayscale}
+@media only screen and (max-width:639px){img.stretch-on-mobile,.hs_rss_email_entries_table img,.hs-stretch-cta .hs-cta-img{height:auto !important;width:100% !important}
+}</style></head>
+  <body bgcolor="#6333ff" style="margin:0 !important; padding:0 !important; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word">
+    
+
+
+
+
+
+    
+<!--[if gte mso 9]>
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+  
+    <v:fill type="tile" size="100%,100%" color="#6333ff"/>
+  
+</v:background>
+<![endif]-->
+
+
+    <div class="hse-body-background" style="background-color:#6333ff" bgcolor="#6333ff">
+      <table role="presentation" class="hse-body-wrapper-table" cellpadding="0" cellspacing="0" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; margin:0; padding:0; width:100% !important; min-width:320px !important; height:100% !important" width="100%" height="100%">
+        <tbody><tr>
+          <td class="hse-body-wrapper-td" valign="top" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding-top:20px">
+            <div id="hs_cos_wrapper_main" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_dnd_area" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="dnd_area">  <div id="section-0" class="hse-section hse-section-first" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:collapse; border-spacing:0; background-color:#ffffff; padding-bottom:5px; padding-top:15px" bgcolor="#ffffff">
+    <!--<![endif]-->
+    
+    <!--[if (mso)|(IE)]>
+      <div class="hse-column-container" style="min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0;">
+      <table align="center" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#ffffff">
+      <tr style="background-color:#ffffff;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;padding-bottom:5px; padding-top:15px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px">
+<![endif]-->
+<div id="column-0-0" class="hse-column hse-size-12">
+  <div id="hs_cos_wrapper_module-0-0-0" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+	
+
+
+<table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt">
+    <tbody>
+        <tr>
+            <td align="left" valign="top" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; color:#23496d; word-break:break-word; text-align:left; padding:10px 40px 20px 25px; font-size:0px">
+                
+                <img alt="dedoco_logo_RGB" src="https://8520956.fs1.hubspotusercontent-na1.net/hub/8520956/hubfs/dedoco_logo_RGB.png?width=316&amp;upscale=true&amp;name=dedoco_logo_RGB.png" style="outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; max-width:100%; font-size:16px" width="158" align="middle">
+                
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+
+  <div id="section-1" class="hse-section" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:collapse; border-spacing:0; background-color:#ffffff" bgcolor="#ffffff">
+    <!--<![endif]-->
+    
+    <!--[if (mso)|(IE)]>
+      <div class="hse-column-container" style="min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0;">
+      <table align="center" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#ffffff">
+      <tr style="background-color:#ffffff;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px">
+<![endif]-->
+<div id="column-1-0" class="hse-column hse-size-12">
+  <div id="hs_cos_wrapper_module-1-0-0" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+	
+
+
+<table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt">
+    <tbody>
+        <tr>
+            <td align="center" valign="top" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; color:#23496d; word-break:break-word; text-align:center; padding:30px 20px 10px; font-size:0px">
+                
+                <img alt="Vibrant-(1)" src="https://8520956.fs1.hubspotusercontent-na1.net/hub/8520956/hubfs/Vibrant-(1).gif?width=1120&amp;upscale=true&amp;name=Vibrant-(1).gif" style="outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; max-width:100%; font-size:16px" width="560" align="middle">
+                
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+
+  <div id="section-2" class="hse-section" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:collapse; border-spacing:0; background-color:#ffffff; padding-bottom:30px; padding-top:30px" bgcolor="#ffffff">
+    <!--<![endif]-->
+    
+    <!--[if (mso)|(IE)]>
+      <div class="hse-column-container" style="min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0;">
+      <table align="center" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#ffffff">
+      <tr style="background-color:#ffffff;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;padding-bottom:30px; padding-top:30px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px">
+<![endif]-->
+<div id="column-2-0" class="hse-column hse-size-12">
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class="hs_padded" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:10px 40px"><div id="hs_cos_wrapper_module-2-0-0" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module-2-0-0_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2 style="margin:0; mso-line-height-rule:exactly; font-size:28px; line-height:150%; font-weight:bold; text-align:left" align="left"><span style="color: #000000; font-family: Arial, sans-serif;">Hello again!</span></h2></div></div></td></tr></tbody></table>
+<table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class="hs_padded" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:10px 40px"><div id="hs_cos_wrapper_module-2-0-1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module-2-0-1_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="mso-line-height-rule:exactly; line-height:150%"><span style="font-family: Arial, sans-serif; color: #000000;">Dear Sir/Mdm</span></p>
+<p style="mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:175%; text-align:left" align="left"><span style="font-family: Arial, sans-serif;">We understand if your Inbox is somewhat crowded, but hope you will allow us some space. The remote working age, it is worth to rethink how we sign documents.</span></p>
+<p style="mso-line-height-rule:exactly; line-height:175%; text-align:left" align="left">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; line-height:175%; text-align:left" align="left"><span style="font-family: Arial, sans-serif;">Electronic signatures play a huge role in maximizing work efficiency while working from home. An e-signature improves document workflow efficiency, saves time, and reduces costs.</span></p>
+<p style="mso-line-height-rule:exactly; line-height:175%; text-align:left" align="left"><br><span style="font-family: Arial, sans-serif;">Start signing in minutes and experience the difference.&nbsp;</span></p>
+<p style="mso-line-height-rule:exactly; line-height:175%; text-align:left" align="left">&nbsp;</p></div></div></td></tr></tbody></table>
+<table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class="hs_padded" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:10px 20px"><div id="hs_cos_wrapper_module-2-0-2" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-spacing:0 !important; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:separate!important">
+    <tbody><tr>
+        <!--[if mso]>
+      <td align="center" valign="middle" bgcolor="#6333FF" role="presentation"  valign="middle" style="border-radius:0px;cursor:auto;background-color:#6333FF;padding:12px 18px;">
+    <![endif]-->
+    <!--[if !mso]><!-- -->
+      <td align="center" valign="middle" bgcolor="#6333FF" role="presentation" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; border-radius:0px; cursor:auto; background-color:#6333FF">
+   <!--<![endif]-->
+        <a href="https://hubs.ly/Q015Gr640" target="_blank" style="color:#00a4bd; mso-line-height-rule:exactly; font-size:16px; font-family:Arial, sans-serif; Margin:0; text-transform:none; text-decoration:none; padding:12px 18px; display:block" data-hs-link-id="0">
+          <strong style="color:#ffffff;font-weight:normal;text-decoration:none;font-style:normal;">Create Your Account</strong>
+        </a>
+      </td>
+    </tr>
+  </tbody></table>
+</div></td></tr></tbody></table>
+<table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class="hs_padded" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:10px 40px"><div id="hs_cos_wrapper_module-2-0-3" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div id="hs_cos_wrapper_module-2-0-3_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="mso-line-height-rule:exactly; line-height:175%; text-align:left" align="left">Warm Regards,</p></div></div></td></tr></tbody></table>
+<div id="hs_cos_wrapper_module-2-0-4" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+	
+
+
+<table class="hse-image-wrapper" role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt">
+    <tbody>
+        <tr>
+            <td align="left" valign="top" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; color:#23496d; word-break:break-word; text-align:left; padding:10px 20px 25px 25px; font-size:0px">
+                
+                <img alt="dedoco_logo_RGB" src="https://8520956.fs1.hubspotusercontent-na1.net/hub/8520956/hubfs/dedoco_logo_RGB.png?width=316&amp;upscale=true&amp;name=dedoco_logo_RGB.png" style="outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; max-width:100%; font-size:16px" width="158" align="middle">
+                
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+
+  <div id="section-3" class="hse-section" style="padding-left:10px; padding-right:10px">
+
+    
+    
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:collapse; border-spacing:0; background-color:#221630" bgcolor="#221630">
+    <!--<![endif]-->
+    
+    <!--[if (mso)|(IE)]>
+      <div class="hse-column-container" style="min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0;">
+      <table align="center" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#221630">
+      <tr style="background-color:#221630;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px">
+<![endif]-->
+<div id="column-3-0" class="hse-column hse-size-12">
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:18px 0px 5px"><div id="hs_cos_wrapper_module-3-0-0" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+<table role="presentation" align="center" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module" width="auto">
+  <tbody>
+    <tr align="center">
+      
+      <td class="social-network-cell" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word">
+        <table role="presentation" align="center" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center">
+              
+              <td class="display_block_on_small_screens" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="https://www.dedoco.com" style="color:#00a4bd; mso-line-height-rule:exactly; text-decoration:none !important" data-hs-link-id="0" target="_blank">
+                  
+                  
+                    
+                    
+                  
+                  <img src="https://8520956.fs1.hubspotusercontent-na1.net/hub/8520956/hubfs/Dedoco%20Iconography.png?height=50&amp;upscale=true&amp;name=Dedoco%20Iconography.png" alt="Dedoco Iconography" height="25" style="outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle" width="auto">
+                  
+                </a>
+              </td>
+              
+              
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      
+      <td class="social-network-cell" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word">
+        <table role="presentation" align="center" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center">
+              
+              <td class="display_block_on_small_screens" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="https://twitter.com/dedoco_official" style="color:#00a4bd; mso-line-height-rule:exactly; text-decoration:none !important" data-hs-link-id="0" target="_blank">
+                  
+                  
+                    
+                    
+                  
+                  <img src="https://8520956.fs1.hubspotusercontent-na1.net/hub/8520956/hubfs/Dedoco%20Iconography-44.png?height=50&amp;upscale=true&amp;name=Dedoco%20Iconography-44.png" alt="Dedoco Iconography-44" height="25" style="outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle" width="auto">
+                  
+                </a>
+              </td>
+              
+              
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      
+      <td class="social-network-cell" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word">
+        <table role="presentation" align="center" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center">
+              
+              <td class="display_block_on_small_screens" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="https://www.facebook.com/dedoco.official/" style="color:#00a4bd; mso-line-height-rule:exactly; text-decoration:none !important" data-hs-link-id="0" target="_blank">
+                  
+                  
+                    
+                    
+                  
+                  <img src="https://8520956.fs1.hubspotusercontent-na1.net/hub/8520956/hubfs/Dedoco%20Iconography-43.png?height=50&amp;upscale=true&amp;name=Dedoco%20Iconography-43.png" alt="Dedoco Iconography-43" height="25" style="outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle" width="auto">
+                  
+                </a>
+              </td>
+              
+              
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      
+      <td class="social-network-cell" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word">
+        <table role="presentation" align="center" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center">
+              
+              <td class="display_block_on_small_screens" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="http://www.linkedin.com/company/dedoco" style="color:#00a4bd; mso-line-height-rule:exactly; text-decoration:none !important" data-hs-link-id="0" target="_blank">
+                  
+                  
+                    
+                    
+                  
+                  <img src="https://8520956.fs1.hubspotusercontent-na1.net/hub/8520956/hubfs/Dedoco%20Iconography-46.png?height=50&amp;upscale=true&amp;name=Dedoco%20Iconography-46.png" alt="Dedoco Iconography-46" height="25" style="outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle" width="auto">
+                  
+                </a>
+              </td>
+              
+              
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      
+      <td class="social-network-cell" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word">
+        <table role="presentation" align="center" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto; text-align:center" class="hs_cos_wrapper_type_social_module_single" width="auto">
+          <tbody>
+            <tr align="center">
+              
+              <td class="display_block_on_small_screens" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:8px 5px; line-height:1; vertical-align:middle" valign="middle">
+                <a href="https://www.youtube.com/channel/UCTJjYRTvt6squldERj2dydQ" style="color:#00a4bd; mso-line-height-rule:exactly; text-decoration:none !important" data-hs-link-id="0" target="_blank">
+                  
+                  
+                    
+                    
+                  
+                  <img src="https://8520956.fs1.hubspotusercontent-na1.net/hub/8520956/hubfs/Dedoco%20Iconography-45.png?height=50&amp;upscale=true&amp;name=Dedoco%20Iconography-45.png" alt="Dedoco Iconography-45" height="25" style="outline:none; text-decoration:none; -ms-interpolation-mode:bicubic; border:none; width:auto!important; height:25px!important; vertical-align:middle" valign="middle" width="auto">
+                  
+                </a>
+              </td>
+              
+              
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      
+    </tr>
+  </tbody>
+</table>
+
+</div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+
+  <div id="section-4" class="hse-section hse-section-last" style="padding-left:10px; padding-right:10px; padding-bottom:20px">
+
+    
+    
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class="hse-column-container" style="min-width:280px; max-width:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:collapse; border-spacing:0; background-color:#221630" bgcolor="#221630">
+    <!--<![endif]-->
+    
+    <!--[if (mso)|(IE)]>
+      <div class="hse-column-container" style="min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0;">
+      <table align="center" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#221630">
+      <tr style="background-color:#221630;">
+    <![endif]-->
+
+    <!--[if (mso)|(IE)]>
+  <td valign="top" style="width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px">
+<![endif]-->
+<div id="column-4-0" class="hse-column hse-size-12">
+  <table role="presentation" cellpadding="0" cellspacing="0" width="100%" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class="hs_padded" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; padding:11px 20px 20px"><div id="hs_cos_wrapper_module-4-0-0" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table role="presentation" class="hse-footer hse-secondary" width="100%" cellpadding="0" cellspacing="0" style="border-spacing:0 !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; font-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496d; margin-bottom:0; padding:0">
+    <tbody>
+        <tr>
+            <td align="center" valign="top" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; text-align:center; margin-bottom:0; line-height:135%; padding:10px 20px">
+                <p style="mso-line-height-rule:exactly; font-size:12px; line-height:125%"><span style="font-family: Helvetica, Arial, sans-serif; color: #eeeeee;">Dedoco<br></span></p>
+<p style="mso-line-height-rule:exactly; font-size:12px; line-height:125%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; font-size:12px; line-height:125%"><span style="font-family: Helvetica, Arial, sans-serif; color: #eeeeee;"> 160 Robinson Rd, #14-05 SBF Centre,</span><span style="font-family: Helvetica, Arial, sans-serif; color: #eeeeee;"> Singapore 068914 Singapore</span></p>
+<p style="mso-line-height-rule:exactly; font-size:12px; line-height:125%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; font-size:12px; line-height:125%"><span style="color: #ffffff;">58 Gipps Street, Collingwood, Vitoria 3066, Australia</span></p>
+<p style="mso-line-height-rule:exactly; font-size:11px; line-height:125%">&nbsp;</p>
+<p style="mso-line-height-rule:exactly; font-size:11px; line-height:125%"><span style="font-family: Helvetica, Arial, sans-serif; color: #ffffff;"><a href="https://hs-8520956.s.hubspotemail.net/hs/manage-preferences/unsubscribe-all-test?d=VmYj8R51msVjVKgD3Q3_YlyBW2m3bL73_YlyBN1JxwY5GKd_PV20N747nw4kjN3dZn3JdwHp9N3CMgYS1gWcp1&amp;v=3" style="mso-line-height-rule:exactly; color:#ffffff" data-unsubscribe="true" data-hs-link-id="0" target="_blank">Unsubscribe</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://hs-8520956.s.hubspotemail.net/hs/manage-preferences/unsubscribe-test?d=VmYj8R51msVjVKgD3Q3_YlyBW2m3bL73_YlyBN1JxwY5GKd_PV20N747nw4kjN3dZn3JdwHp9N3CMgYS1gWcp1&amp;v=3" style="mso-line-height-rule:exactly; color:#ffffff" data-unsubscribe="true" data-hs-link-id="0" target="_blank">Manage Preferences</a></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table></div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+
+
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+
+    </div>
+   
+  </div>
+</div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+  
+</body></html>
